@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img alt="Muhammad Umar Tariq · AI Engineer · Researcher" src="assets/banner-dark.svg" width="100%" />
+  <img alt="Muhammad Umar Tariq · AI Product Engineer · AI Researcher" src="assets/banner-dark.svg" width="100%" />
 </picture>
 
 <p align="center">
@@ -13,15 +13,24 @@
 </p>
 
 <p align="center">
-I build <b>production AI systems — agents, retrieval pipelines, and the APIs behind them</b> —<br/>
-and research how they can become <b>reliable, explainable, and accountable</b> in the real world.
+<b>AI Product Engineer & Researcher</b> taking AI from research idea to full-stack product —<br/>
+LLM applications, RAG pipelines, multi-agent systems, and the APIs and interfaces around them.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI_&_LLMs-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG_&_AI_Agents-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Intelligent_Automation-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML_&_Deep_Learning-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full_Stack-2F81F7?style=flat-square" />
 </p>
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="32"/><br/><b>AI Engineer</b><br/><sub>Ran AI Pvt. Ltd.</sub></td>
-<td align="center" width="25%"><img src="https://img.icons8.com/fluency/48/rocket.png" width="32"/><br/><b>CTO & Co-founder</b><br/><sub>Nexpage Technologies</sub></td>
-<td align="center" width="25%"><img src="https://img.icons8.com/fluency/48/classroom.png" width="32"/><br/><b>Lab Engineer</b><br/><sub>Data Science · Bahria University</sub></td>
+<td align="center" width="25%"><img src="https://img.icons8.com/fluency/48/rocket.png" width="32"/><br/><b>Co-founder & CTO</b><br/><sub>Nexpage Research</sub></td>
+<td align="center" width="25%"><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="32"/><br/><b>AI Product Engineer</b><br/><sub>Ran AI Pvt. Ltd.</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" height="32"/><br/><b>IEEE Member</b><br/><sub>AI Researcher</sub></td>
 <td align="center" width="25%"><img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="32"/><br/><b>MS Artificial Intelligence</b><br/><sub>BS CS · Bahria University</sub></td>
 </tr>
 </table>
@@ -77,7 +86,7 @@ Early detection of depression from text, across a Flutter app, a FastAPI ML serv
 | **Machine Learning–Based Intrusion Detection for Wireless Sensor Networks** | AI Security · WSN |
 | **Spot-Energy-Aware Checkpointing for Cloud-Based LLM Fine-Tuning** | Efficient LLM Training |
 
-**Interests:** Trustworthy & Explainable AI · Agentic LLMs with human oversight · RAG · LLM Reasoning & Evaluation · AI Security &nbsp;→&nbsp; [**All publications**](https://scholar.google.com/citations?user=eAq5VDQAAAAJ&hl=en)
+**Interests:** Trustworthy & Explainable AI · Agentic & Multi-Agent LLM Systems · RAG · LLM Reasoning & Evaluation · AI Security &nbsp;→&nbsp; [**All publications**](https://scholar.google.com/citations?user=eAq5VDQAAAAJ&hl=en)
 
 ## <img src="https://img.icons8.com/fluency/28/maintenance.png" /> &nbsp;Tech Stack
 
