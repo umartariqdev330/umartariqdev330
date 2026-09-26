@@ -116,6 +116,14 @@ Early detection of depression from text, across a Flutter app, a FastAPI ML serv
   📜 <b>IBM Generative AI Engineering</b> &nbsp;·&nbsp; 📊 <b>IBM Data Science Professional</b>
 </p>
 
+## <img src="https://img.icons8.com/fluency/28/combo-chart.png" /> &nbsp;Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umartariqdev330/umartariqdev330/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umartariqdev330/umartariqdev330/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/umartariqdev330/umartariqdev330/output/github-snake.svg" width="100%" />
+</picture>
+
 <br/>
 
 <picture>
